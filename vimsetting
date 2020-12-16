@@ -33,6 +33,7 @@ set shiftwidth=3
 set showmatch
 set smartcase
 set smarttab
+set expandtab "
 set smartindent
 set softtabstop=3
 set tabstop=3
